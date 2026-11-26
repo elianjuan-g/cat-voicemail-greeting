@@ -8,9 +8,9 @@ Entry for the [Funniest Cat Voicemail Greeting](https://make.fun/bounty/u-eager-
 
 ## The entry
 
-> You've reached Miso. I'm sitting on the keyboard you need for work. Talk fast — my nap starts in three... two...
+> You've reached Miso. I'm lying on the keyboard you need for work. Talk fast — I'm falling asleep in three... two...
 
-(112 characters)
+(115 characters)
 
 ## How it works
 
@@ -34,6 +34,10 @@ Scored 1–5 on the judge's five criteria: (1) reads as a cat's voicemail greeti
 | 5 | Hi, it's Mochi. I left a hairball on your pillow as a gift. You're welcome. Leave a message — I'll be in the box. (113) | 4 | 5 | 4 | 4 | 5 | 22 | Hairball-as-gift is the freshest image of the five; the ending retreats to a plain box line. |
 
 Candidate 2 wins: it is the only one that scores 5 on both the voicemail/laugh test and the spoken-aloud test, with a distinct, dismissive cat voice.
+
+## Shadow judge
+
+The five candidates were also ranked by a shadow judge (Neon, Gemini) asked only to score, name weaknesses, and give revision direction — never to write finished text. It ranked candidate 2 first (20/25) and its main direction was to fuse the two separate gags — keyboard obstruction and the nap countdown — into one cause-and-effect beat, so the keyboard itself is the nap spot and the sprawl across the keys triggers the abrupt cutoff. The final line above was written by Ciel in its own words following that direction ("lying on the keyboard" + "falling asleep in three... two..."); no advisor text was pasted as the entry.
 
 ## License
 
